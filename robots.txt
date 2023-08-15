@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-togel-abjad.github.io/sta-1/sitemap.xml
